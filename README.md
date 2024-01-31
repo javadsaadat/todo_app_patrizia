@@ -25,7 +25,7 @@ Step-3: Run flutter project -
 - Visual Studio Code (Optional)
 - Flutter
 - Dart
-- -Bloc state management
+- Bloc state management
 
 
 
