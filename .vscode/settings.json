@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "[gruvboxConcoctis dark hard]": {
+            "editor.background": "#1F1F1F"
+        },
+        "activityBar.background": "#52104B",
+        "titleBar.activeBackground": "#731669",
+        "titleBar.activeForeground": "#FEFCFE"
+    }
+}
